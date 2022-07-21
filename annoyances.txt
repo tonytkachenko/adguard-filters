@@ -1,0 +1,10 @@
+! Title: Annoyances filter
+! Description: Hides annoying and unnecessary elements
+! Version: 1.0.0.0
+! TimeUpdated: 2022-01-21T15:00:00+00:00
+! Homepage: https://github.com/tonytkachenko/adguard-filters
+! Expires: 4 days (update frequency)
+! License: https://github.com/tonytkachenko/adguard-filters/blob/main/LICENSE
+
+apteka911.ua##.search-error
+apteka911.ua##jdiv
