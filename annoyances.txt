@@ -7,4 +7,4 @@
 ! License: https://github.com/tonytkachenko/adguard-filters/blob/main/LICENSE
 
 apteka911.ua##.search-error
-apteka911.ua##jdiv
+apteka911.ua###jivo_custom_btn
