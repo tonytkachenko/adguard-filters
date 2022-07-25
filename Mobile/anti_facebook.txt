@@ -19,6 +19,7 @@
 ||graph.facebook.com^$app=com.overlook.android.fing
 ||graph.facebook.com^$app=com.spotify.music
 ||graph.facebook.com^$app=com.tabletkiua.tabletki
+||graph.facebook.com^$app=com.udemy.android
 ||graph.facebook.com^$app=com.xiaomi.account
 ||graph.facebook.com^$app=com.xiaomi.hm.health
 ||graph.facebook.com^$app=com.xiaomi.smarthome
@@ -27,6 +28,7 @@
 ||graph.facebook.com^$app=ru.livelib.client
 ||graph.facebook.com^$app=shafa.odejda.obuv.aksessuary
 ||graph.facebook.com^$app=ua.com.uklontaxi
+||graph.facebook.com^$app=ua.comfy.comfystore
 ||graph.facebook.com^$app=ua.novaposhtaa
 ||graph.facebook.com^$app=ua.prom.b2c
 ||graph.facebook.com^$app=ua.slando
