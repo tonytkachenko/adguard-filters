@@ -1,10 +1,11 @@
 ! Title: Mobile Tracking filter
 ! Description: Blocks mobile app tracking
-! Version: 1.0.0.1
-! TimeUpdated: 2022-08-03T09:00:00+00:00
+! Version: 1.0.0.2
+! TimeUpdated: 2022-08-13T09:00:00+00:00
 ! Homepage: https://github.com/tonytkachenko/adguard-filters
 ! Expires: 4 days (update frequency)
 ! License: https://github.com/tonytkachenko/adguard-filters/blob/main/LICENSE
 
 ||*.ingest.sentry.io^$app=com.todoist
 ||app.adjust.com^$app=co.thefabulous.app,important
+||napp.catchingnow.com^$app=com.catchingnow.np
