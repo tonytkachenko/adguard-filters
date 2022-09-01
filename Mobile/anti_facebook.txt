@@ -1,7 +1,7 @@
 ! Title: Mobile Anti-Facebook
 ! Description: Blocks unnecessary Facebook requests in mobile apps
-! Version: 1.0.0.5
-! TimeUpdated: 2022-08-13T09:00:00+00:00
+! Version: 1.0.0.6
+! TimeUpdated: 2022-09-01T09:00:00+00:00
 ! Homepage: https://github.com/tonytkachenko/adguard-filters
 ! Expires: 4 days (update frequency)
 ! License: https://github.com/tonytkachenko/adguard-filters/blob/main/LICENSE
@@ -29,6 +29,7 @@
 ||graph.facebook.com^$app=com.tabletkiua.tabletki
 ||graph.facebook.com^$app=com.ted.android
 ||graph.facebook.com^$app=com.ticktick.task
+||graph.facebook.com^$app=com.todoist
 ||graph.facebook.com^$app=com.toprograms.up
 ||graph.facebook.com^$app=com.udemy.android
 ||graph.facebook.com^$app=com.weplaydots.twodotsandroid
