@@ -1,7 +1,7 @@
 ! Title: Mobile Anti-Facebook
 ! Description: Blocks unnecessary Facebook requests in mobile apps
-! Version: 1.0.0.6
-! TimeUpdated: 2022-09-01T09:00:00+00:00
+! Version: 1.0.0.7
+! TimeUpdated: 2022-12-13T09:00:00+00:00
 ! Homepage: https://github.com/tonytkachenko/adguard-filters
 ! Expires: 4 days (update frequency)
 ! License: https://github.com/tonytkachenko/adguard-filters/blob/main/LICENSE
@@ -12,6 +12,9 @@
 ||graph.facebook.com^$app=com.bookmark.money
 ||graph.facebook.com^$app=com.citrusapp
 ||graph.facebook.com^$app=com.duocards.app
+||graph.facebook.com^$app=com.ebay.gumtree.au
+||graph.facebook.com^$app=com.fresha.Business
+||graph.facebook.com^$app=com.fresha.Fresha
 ||graph.facebook.com^$app=com.ftband.mono
 ||graph.facebook.com^$app=com.fuib.android.spot.online
 ||graph.facebook.com^$app=com.gen.bettermeditation
@@ -19,9 +22,12 @@
 ||graph.facebook.com^$app=com.grammarly.android.keyboard
 ||graph.facebook.com^$app=com.huami.watch.hmwatchmanager
 ||graph.facebook.com^$app=com.kyivstar.mykyivstar
+||graph.facebook.com^$app=com.matteljv.uno
+||graph.facebook.com^$app=com.medisafe.android.client
 ||graph.facebook.com^$app=com.mi.globalbrowser
 ||graph.facebook.com^$app=com.moviebase
 ||graph.facebook.com^$app=com.overlook.android.fing
+||graph.facebook.com^$app=com.picsart.studio
 ||graph.facebook.com^$app=com.pinterest
 ||graph.facebook.com^$app=com.quizlet.quizletandroid
 ||graph.facebook.com^$app=com.qwertywayapps.tasks
@@ -32,15 +38,20 @@
 ||graph.facebook.com^$app=com.todoist
 ||graph.facebook.com^$app=com.toprograms.up
 ||graph.facebook.com^$app=com.udemy.android
+||graph.facebook.com^$app=com.underline.booktracker
+||graph.facebook.com^$app=com.vos.app
 ||graph.facebook.com^$app=com.weplaydots.twodotsandroid
 ||graph.facebook.com^$app=com.xiaomi.account
 ||graph.facebook.com^$app=com.xiaomi.hm.health
 ||graph.facebook.com^$app=com.xiaomi.smarthome
 ||graph.facebook.com^$app=ee.mtakso.client
 ||graph.facebook.com^$app=habittracker.todolist.tickit.daily.planner
+||graph.facebook.com^$app=helsi.me
 ||graph.facebook.com^$app=org.bruxo.gpsconnected
 ||graph.facebook.com^$app=org.cambridge.cdo.plus
+||graph.facebook.com^$app=org.duckdodo.baikoh
 ||graph.facebook.com^$app=org.pixelrush.moneyiq
+||graph.facebook.com^$app=ru.kwork.app
 ||graph.facebook.com^$app=ru.livelib.client
 ||graph.facebook.com^$app=shafa.odejda.obuv.aksessuary
 ||graph.facebook.com^$app=ua.com.rozetka.shop

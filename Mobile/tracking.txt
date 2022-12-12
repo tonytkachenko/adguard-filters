@@ -1,13 +1,18 @@
 ! Title: Mobile Tracking filter
 ! Description: Blocks mobile app tracking
-! Version: 1.0.0.3
-! TimeUpdated: 2022-09-01T09:00:00+00:00
+! Version: 1.0.0.4
+! TimeUpdated: 2022-12-13T09:00:00+00:00
 ! Homepage: https://github.com/tonytkachenko/adguard-filters
 ! Expires: 4 days (update frequency)
 ! License: https://github.com/tonytkachenko/adguard-filters/blob/main/LICENSE
+
+! Unblock recording watch history in YT ReVanced
+@@||s.youtube.com^$app=app.revanced.android.youtube
 
 ||*.ingest.sentry.io^$app=com.todoist
 ||*.sentry.io^$app=com.kyivstar.mykyivstar
 ||*.sentry.io^$app=pct.droid
 ||app.adjust.com^$app=co.thefabulous.app,important
+||app.adjust.com^$app=com.viber.voip,important
 ||napp.catchingnow.com^$app=com.catchingnow.np
+||analytics.streetwriters.co^$app=com.streetwriters.notesnook

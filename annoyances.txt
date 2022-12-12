@@ -1,10 +1,20 @@
 ! Title: Annoyances filter
 ! Description: Hides annoying and unnecessary elements
-! Version: 1.0.0.0
-! TimeUpdated: 2022-01-21T15:00:00+00:00
+! Version: 1.0.0.1
+! TimeUpdated: 2022-12-13T15:00:00+00:00
 ! Homepage: https://github.com/tonytkachenko/adguard-filters
 ! Expires: 4 days (update frequency)
 ! License: https://github.com/tonytkachenko/adguard-filters/blob/main/LICENSE
 
+||freegeoip.live^$domain=foxminded.ua
+||googleads.g.doubleclick.net^$domain=forum.release-apk.com
+||intelco.org^$domain=foxminded.ua
+
 apteka911.ua##.search-error
 apteka911.ua###jivo_custom_btn
+cloud.pocketbook.digital##.Sidebar__fixed_footer
+trakt.tv## .e20df-grid-item
+trakt.tv##.btn-watch-now
+trakt.tv##.e1a979-grid-item
+trakt.tv##.streaming-links
+trakt.tv##.watch-now
