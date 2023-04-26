@@ -1,3 +1,11 @@
+! Title: DNS filters
+! Description: Filters DNS requests
+! Version: 1.0.0.0
+! TimeUpdated: 2023-04-27T00:00:00+00:00
+! Homepage: https://github.com/tonytkachenko/adguard-filters
+! Expires: 4 days (update frequency)
+! License: https://github.com/tonytkachenko/adguard-filters/blob/main/LICENSE
+
 ||franecki.net^
 ||nogravity.fun^
 ||servetraff.com^
